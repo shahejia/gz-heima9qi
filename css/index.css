@@ -5,6 +5,7 @@ box-sizing:content-box;
 }
 div {
     color : yellow;
+    font-size: 12px;
     background-color: pink;
     width: 200px;
     height: 200px;
